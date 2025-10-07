@@ -1,6 +1,6 @@
 # RahayuLarasKinasih
 
-<!-- Header dengan animasi teks -->
+<!-- Header dengan animasi tekss -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=F4C2C2&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rahayu+Laras+Kinasih+🌸;Web+Developer+%7C+Machine+Learning+Enthusiast;Welcome+to+my+GitHub+Profile!+💻" />
 </h1>
